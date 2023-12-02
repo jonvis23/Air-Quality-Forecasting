@@ -44,7 +44,7 @@ The data set covers the time span from March 1st, 2013, to February 28th, 2017. 
 
 Throughout this project, our attention will be solely directed to the `PM2.5 `feature. PM2.5 stands for particles with a diameter smaller than 2.5 micrometers, which is over 10 times thinner than a human hair—quite intriguing, isn't it? These particles emerge from burning fuel and chemical reactions in the atmosphere, be it coal in a power plant or gasoline in your car. Remarkably tiny, they have the potential to penetrate deep into the lungs and bloodstream, posing a gradual threat to your body over time.
 
-## Methodologies, Techniques & Model
+## Methodologies, Techniques & Model..
 
 ## Recommendation, conclusion, limitations
 
