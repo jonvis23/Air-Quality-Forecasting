@@ -48,4 +48,4 @@ Throughout this project, our attention will be solely directed to the `PM2.5 `fe
 
 ## Recommendation, conclusion, limitations
 
-## Folder structure
+## Folder structure.
