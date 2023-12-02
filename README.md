@@ -52,4 +52,4 @@ Throughout this project, our attention will be solely directed to the `PM2.5 `fe
 
 ## limitations
 
-## Folder structure
+## Folder structure.
