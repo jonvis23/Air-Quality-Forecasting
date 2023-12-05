@@ -1,4 +1,5 @@
 # Company Name: AirGuard Analytics!
+![Uploading Technology (1).png…]()
 
 ## Overview
 This project aims to predict air quality, specifically focusing on PM2.5 levels, using time series analysis. PM2.5 refers to fine particulate matter with a diameter of less than 2.5 micrometers, which can penetrate deep into the human respiratory tract and significantly affect health. Predicting PM2.5 levels is crucial for public health and environmental policy planning.
