@@ -76,7 +76,8 @@ While the model is a valuable tool for stakeholders, it is essential to acknowle
 
 ## limitations
 
-Data Limitations:
+Data Limitations
+
 
 The model's accuracy is contingent on the quality and representativeness of the training data. Any biases or gaps in the data may impact the model's generalization to real-world scenarios.
 External Factors:
