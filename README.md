@@ -8,10 +8,6 @@ This project aims to predict air quality, specifically focusing on PM2.5 levels,
 
 In rapidly industrializing regions like Gucheng, China, air pollution has emerged as a critical environmental and public health issue. The challenge faced by local authorities, environmental agencies, and public health organizations is the lack of predictive capability regarding air quality. This project aims to address this real-world problem by developing a predictive model for air pollution in Gucheng. The model's forecasts can be used by these stakeholders to implement timely health advisories, pollution control measures, and urban planning strategies.
 
-## Business Problem
-
-In rapidly industrializing regions air pollution has emerged as a critical environmental and public health issue. The challenge faced by local authorities, environmental agencies, and public health organizations is the lack of predictive capability regarding air quality. This project aims to address this real-world problem by developing a predictive model for air pollution in Gucheng. The model's forecasts can be used by these stakeholders to implement timely health advisories, pollution control measures, and urban planning strategies.
-
 ## Stakeholders
 
 - Local Government and Environmental Agencies: These bodies are responsible for monitoring and managing air quality, implementing pollution control policies, and safeguarding public health.
